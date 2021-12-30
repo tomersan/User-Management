@@ -2,7 +2,7 @@
 
 # npm-install
 
-Run the "npm-install" command
+Run the "npm install" command
 
 # cd client
 
@@ -10,7 +10,7 @@ Run the "cd client" command
 
 # npm-install
 
-Run the "npm-install" command
+Run the "npm install" command
 
 # cd ..
 
